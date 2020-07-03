@@ -1,0 +1,38 @@
+body{
+    background: #fff;
+    margin-right: 300px;
+    margin-left: 300px;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue",
+    "Helvetica","Arial",sans-serif;
+    
+}
+h1 { 
+   font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue",
+   "Helvetica","Arial",sans-serif;
+}
+
+h2{
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue",
+    "Helvetica","Arial",sans-serif;;
+
+}
+
+p{
+    color:#1d1d1f;
+    font-size: 17px;
+}
+
+footer{
+    color:#1d1d1f;
+    margin-bottom: 300px;
+}
+#corWrite {
+     color:#06c;
+}
+
+.corAzul {
+    color: #06c;
+}
+.img_padrão{
+    margin-bottom: 20px;
+}
